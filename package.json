@@ -1,0 +1,17 @@
+{
+  "name": "skokov",
+  "version": "1.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "jquery": "^3.2.1",
+    "masonry-layout": "^4.1.1",
+    "slick-carousel": "^1.6.0"
+  }
+}
